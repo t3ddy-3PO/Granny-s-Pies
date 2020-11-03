@@ -1,0 +1,55 @@
+
+.index-heading {
+  text-align: center;
+  font-size: 22px;
+  font-weight: bold;
+  text-decoration: underline;
+
+}
+
+h1 {
+  color: #A4A400;
+  background-color:  #F0F0F0;
+  font-family: Lucida Sans Unicode, Helvetica, Arial;
+  font-size: 18px;
+  text-decoration: underline;
+  letter-spacing: 0.25cm;
+
+
+}
+
+
+ul {
+  color: #404040;
+  font-size: 11px;
+  font-family: Georgia, Garamond;
+
+}
+
+ol {
+  color: #404040;
+  font-size: 11px;
+  font-family: Georgia, Garamond;
+}
+
+
+a {
+  color: #A4A400;
+}
+
+
+p {
+  color: #404040;
+  font-size: 11px;
+  font-family: Georgia, Garamond;
+}
+
+.p-comments {
+  font-style: italic;
+  background-color: #FFFFA8;
+  text-indent: 20px;
+}
+
+.p-copyright {
+  font-style: monospace
+}
